@@ -1,0 +1,19 @@
+{
+  "name": "fitbit-productivity-timer",
+  "version": "1.0.0",
+  "private": true,
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@fitbit/sdk": "^5.0.1",
+    "@fitbit/sdk-cli": "^1.7.3"
+  },
+  "fitbit": {
+    "appUUID": "450b04a7-02ce-480b-83ad-113b16016d83"
+  }
+}
