@@ -1,2 +1,2 @@
 msgid "hello_world"
-msgstr "Hello worlds!"
+msgstr "Yay fitbit :D"

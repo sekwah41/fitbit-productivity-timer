@@ -1,4 +1,4 @@
-Productivity Timer
+Fitbit Productivity Timer (Pomodoro Timer)
 ==========
 
 Based off https://github.com/roldanjr/pomatez
@@ -45,6 +45,11 @@ This took me a bit longer than it should have to find. Take a look at https://de
 ## To connect the debugger
 run `npm debug` then `connect phone` and `connect device` (though make sure they are not connected to any other processes e.g. Fitbit studio)
 
-To install the project then run `build` then `install`
+To install the project then run `build` then `install` or use `bi` to do both in one command.
 
 You can also look at https://dev.fitbit.com/build/guides/command-line-interface/ for more info
+
+
+## Plans
+I am looking to make this into a fully functioning app with the basic Pomodoro features.
+Possibly some more Fitbit apps down the road :D
