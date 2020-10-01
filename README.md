@@ -13,7 +13,8 @@ choose export project and use that as a base.
 
 ## Current Screenshots
 Just mostly testing embedding images in github but also just to make a quick preview (ill try to keep it up to date)
-![Main Screen](.github/assets/main.png)
+
+![Main Screen](.github/assets/screenshots/main.png)
 
 ## Plans
 I am looking to make this into a fully functioning app with the basic Pomodoro features.
